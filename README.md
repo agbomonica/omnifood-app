@@ -1,6 +1,6 @@
 # Omnifood Website
 
-Omnifood is a premium food subscription plan that offers healthy and nutritional meals customed to user's needs.
+Omnifood is a premium food subscription plan that offers healthy and nutritional meals customized to user's needs.
 
 ## Core Technologies:
 
